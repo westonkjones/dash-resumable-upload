@@ -1,5 +1,4 @@
 uploads/
-build/
 coverage/
 dist/
 lib/
@@ -11,6 +10,5 @@ dash_resumable_upload/bundle.js*
 vv/
 venv/
 *.pyc
-*.egg-info
 *.log
 .DS_Store
