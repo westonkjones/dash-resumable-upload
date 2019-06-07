@@ -1,9 +1,6 @@
 uploads/
 build/
 coverage/
-dist/
-lib/
-lib/bundle.js*
 node_modules/
 dash_resumable_upload/metadata.json
 dash_resumable_upload/bundle.js*
