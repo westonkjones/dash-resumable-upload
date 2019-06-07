@@ -1,13 +1,9 @@
 uploads/
-build/
 coverage/
 node_modules/
-dash_resumable_upload/metadata.json
-dash_resumable_upload/bundle.js*
 .npm
 vv/
 venv/
 *.pyc
-*.egg-info
 *.log
 .DS_Store
